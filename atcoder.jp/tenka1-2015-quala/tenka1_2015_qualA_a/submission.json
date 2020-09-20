@@ -1,0 +1,12 @@
+{
+	"id": 16902162,
+	"epoch_second": 1600570530,
+	"problem_id": "tenka1_2015_qualA_a",
+	"contest_id": "tenka1-2015-quala",
+	"user_id": "ggharada",
+	"language": "Bash (5.0.11)",
+	"point": 10,
+	"length": 11,
+	"result": "AC",
+	"execution_time": 7
+}
