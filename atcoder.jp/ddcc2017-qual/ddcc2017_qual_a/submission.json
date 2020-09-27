@@ -1,0 +1,12 @@
+{
+	"id": 17056958,
+	"epoch_second": 1601176323,
+	"problem_id": "ddcc2017_qual_a",
+	"contest_id": "ddcc2017-qual",
+	"user_id": "ggharada",
+	"language": "Python (3.8.2)",
+	"point": 100,
+	"length": 105,
+	"result": "AC",
+	"execution_time": 25
+}
